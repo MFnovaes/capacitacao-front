@@ -7,7 +7,7 @@
 # Índice
 
 - [Sobre](#-sobre)
-- [Os cursos realizados](#-os-cursos-realizados)
+- [Os cursos realizados](#-o-curso-realizado)
 - [Tecnologias](#-tecnologias)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
@@ -39,10 +39,10 @@ Foram utilizadas as seguintes tecnologias:
 
 ```bash
 #Clonar o projeto
-$ git clone https://github.com/MFnovaes/alura-git.git
+$ git clone https://github.com/MFnovaes/capacitacao-front.git
 
 #Entrar na pasta
-$ cd alura-git
+$ cd capacitacao-front
 ```
 
 ---
